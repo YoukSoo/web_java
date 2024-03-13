@@ -1,0 +1,8 @@
+package day01;
+
+public class N5 {
+public static void main(String[] args) {
+	String str = "qge" + 1;
+			System.out.println(str);
+}
+}
